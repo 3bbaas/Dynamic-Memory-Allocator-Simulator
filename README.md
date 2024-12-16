@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/5ce9e4ea-cfa0-49e0-82e7-299a177e5aae
 
 ---
 
-## Usage
+## 👥 Usage
 
 Upon running the application, you will be greeted with a dynamic console interface where you can:
 
